@@ -3,7 +3,7 @@
 
 It shows representation of Yahoo! web site content back in `1996`. Have a fun!
 
-![Screenshot](img/yahoo.png)
+![Screenshot](img/demo.png)
 
 ## Usage example
 
