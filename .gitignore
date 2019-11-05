@@ -1,0 +1,11 @@
+# idea trash
+.idea
+
+# virtualenv
+.venv
+venv/
+venv
+
+# Distribution
+.DS_Store
+.cache/
