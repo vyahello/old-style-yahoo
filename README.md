@@ -13,7 +13,7 @@ Open `index.html` file in your browser.
 
 Volodymyr Yahello – vyahello@gmail.com
 
-[https://github.com/vyahello](https://github.com/vyahello)
+[https://twitter.com/vyahello](https://twitter.com/vyahello)
 
 ## Contributing
 
